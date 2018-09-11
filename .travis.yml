@@ -22,4 +22,3 @@ deploy:
   api-key: d828726a-84c8-4f97-aeb4-44ee59a1a418
     secure: $HEROKU_API_KEY
   app: devopslab-nanolima
-
